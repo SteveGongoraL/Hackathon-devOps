@@ -12,10 +12,8 @@ Contarás con coaches y facilitadores que, en caso de que encuentres dificultade
 
 Bienvenido a este desafío de What The Hack con Código Facilito. En este reto, nos centraremos en Modern Development con DevOps y GitHub. Nuestro objetivo es ayudarte a aumentar la velocidad de desarrollo e implementar procedimientos adecuados de DevOps en tu organización. GitHub ofrece un conjunto de herramientas para desarrolladores que permiten agilizar la creación de código, automatizar tareas y garantizar la seguridad del código. A lo largo de este reto, explorarás cómo implementar estos procesos de manera efectiva.
 
-## El escenario del reto
-
-Como parte de una campaña de ayudar a la comunidad, tu empresa está apoyando a un refugio local de animales actualizando, desplegando y gestionando una aplicación web para mostrar mascotas disponibles para adopción.
-
-
 ## Retos
 Puedes iniciar por [acá](https://whatthehack-cf.github.io/WhatTheHack_retos/DevOps-GitHub/)
+
+## Crear repositorio desdeplantilla
+[Link](https://docs.github.com/es/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
